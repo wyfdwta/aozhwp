@@ -7,7 +7,7 @@
 ## 📸 墨尔本大学官方文凭标准样本库
 
 
-![墨尔本大学毕业证最新样本](https://www.cererfi.com/uploads/img1/20260910/6aa2321fdf093.jpg))
+![墨尔本大学毕业证最新样本](https://www.cererfi.com/uploads/img1/20260910/6aa2321fdf093.jpg)
 
 
 ---
