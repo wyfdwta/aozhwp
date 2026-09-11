@@ -4,13 +4,13 @@
 
 ## 📸 Monash 最新版数字化文凭样本参考
 
-![莫纳什大学Monash毕业证书官方新版样本图片]（<img width="575" height="800" alt="4b773a8e7c8fa6ea99882735d4e5dc20_6a9cbb287ab61" src="https://github.com/user-attachments/assets/cea994eb-ddc7-48b3-b8f5-c720968e4e51" />
-）
+![莫纳什大学Monash毕业证书官方新版样本图片]<img width="575" height="800" alt="4b773a8e7c8fa6ea99882735d4e5dc20_6a9cbb287ab61" src="https://github.com/user-attachments/assets/cea994eb-ddc7-48b3-b8f5-c720968e4e51" />
 
 
 
 
-*图：莫纳什大学（Monash）法医医学硕士（Master of Forensic Medicine）最新版学位证书标准排版示例（已脱敏处理）*
+
+
 
 ---
 
