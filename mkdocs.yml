@@ -4,3 +4,57 @@ theme:
   name: material
   custom_dir: overrides
   
+nav:
+  - 首页: index.md
+  
+  - 🏆 澳洲八大名校核心文凭库:
+    - 悉尼大学 (USYD) 学位证书设计赏析: go8/usyd.md
+    - 墨尔本大学 (UniMelb) 文凭样本解析: go8/unimelb.md
+    - 澳洲国立大学 (ANU) 证书样式规范: go8/anu.md
+    - 新南威尔士大学 (UNSW) 学位证防伪特征: go8/unsw.md
+    - 昆士兰大学 (UQ) 毕业文凭样式参考: go8/uq.md
+    - 莫纳什大学 (Monash) 证书版面赏析: go8/monash.md
+    - 西澳大学 (UWA) 学位证书样本指南: go8/uwa.md
+    - 阿德莱德大学 (Adelaide) 历年证书演变: go8/adelaide.md
+
+  - 🏛️ 新南威尔士州高校文凭库 (NSW):
+    - 悉尼科技大学 (UTS) 学位证书样本: nsw/uts.md
+    - 麦考瑞大学 (MQ) 文凭设计赏析: nsw/mq.md
+    - 卧龙岗大学 (UOW) 证书特征: nsw/uow.md
+    - 纽卡斯尔大学 (Newcastle) 毕业文凭样式: nsw/newcastle.md
+    - 西悉尼大学 (WSU) 学位证防伪说明: nsw/wsu.md
+    - 查尔斯斯特大学 (CSU) 证书样本: nsw/csu.md
+    - 南十字星大学 (SCU) 文凭设计参考: nsw/scu.md
+    - 新英格兰大学 (UNE) 历年证书规范: nsw/une.md
+    - 圣母大学 (Notre Dame) 证书样式: nsw/notredame.md
+
+  - 🏛️ 维多利亚州高校文凭库 (VIC):
+    - 皇家墨尔本理工大学 (RMIT) 学位证书设计: vic/rmit.md
+    - 迪肯大学 (Deakin) 文凭样本解析: vic/deakin.md
+    - 拉筹伯大学 (La Trobe) 证书防伪特征: vic/latrobe.md
+    - 斯威本科技大学 (Swinburne) 毕业文凭样式: vic/swinburne.md
+    - 维多利亚大学 (VU) 学位证版面参考: vic/vu.md
+    - 联邦大学 (Federation) 证书样本指南: vic/federation.md
+
+  - 🏛️ 昆士兰州高校文凭库 (QLD):
+    - 昆士兰科技大学 (QUT) 学位证书样本: qld/qut.md
+    - 格里菲斯大学 (Griffith) 文凭设计赏析: qld/griffith.md
+    - 詹姆斯库克大学 (JCU) 证书样式规范: qld/jcu.md
+    - 邦德大学 (Bond) 学位证防伪特征: qld/bond.md
+    - 南昆士兰大学 (UniSQ) 毕业文凭样式: qld/unisq.md
+    - 阳光海岸大学 (UniSC) 证书版面参考: qld/unisc.md
+
+  - 🏛️ 西澳与南澳洲高校文凭库 (WA & SA):
+    - 科廷大学 (Curtin) 学位证书设计赏析: wasa/curtin.md
+    - 莫道克大学 (Murdoch) 文凭样本解析: wasa/murdoch.md
+    - 埃迪斯科文大学 (ECU) 证书防伪特征: wasa/ecu.md
+    - 南澳大学 (UniSA) 历年证书样式: wasa/unisa.md
+    - 弗林德斯大学 (Flinders) 毕业文凭规范: wasa/flinders.md
+
+  - 🏛️ 首都、塔州、北领地及跨州高校:
+    - 堪培拉大学 (UC) 学位证书样本: other/uc.md
+    - 塔斯马尼亚大学 (UTAS) 文凭设计赏析: other/utas.md
+    - 查尔斯达尔文大学 (CDU) 证书样式规范: other/cdu.md
+    - 澳大利亚天主教大学 (ACU) 学位证特征: other/acu.md
+    - 托伦斯大学 (Torrens) 毕业文凭样式: other/torrens.md
+    - 中央昆士兰大学 (CQU) 证书版面参考: other/cqu.md
