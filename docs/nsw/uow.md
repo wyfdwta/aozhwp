@@ -14,7 +14,8 @@ UOW 的博士毕业证在排版上展现了极强的秩序感与现代极简主�
 
 每一张正版 UOW 文凭最核心的物理防伪防线，源于右下角那枚工艺精湛的高精度压印官方印章（Blind Embossed Seal）。
 
-![伍伦贡大学官方防伪证书样本](https://www.cererfi.com/uploads/img1/20260822/6a89b6494aa86.jpg)
+
+<img width="590" height="800" alt="伍伦贡大学毕业证样本（澳洲Uow学位文凭证书样式展示）" src="https://github.com/user-attachments/assets/1352bcf4-5330-4f79-99b0-c813bd61ade2" />
 
 
 该印章在纸张表面压印出清晰的双圈深凹凸立体感。外圈印有 "THE SEAL OF THE UNIVERSITY OF WOLLONGONG" 字样以彰显校董会最高权力，内盾徽上方包含了五颗星芒（致敬南十字星），中心则是展开的书本与象征打开真理之门的金钥匙。这种高吨位钢印技术使得任何通过彩色复印的伪造文凭在触摸时瞬间现形。
