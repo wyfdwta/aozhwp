@@ -4,8 +4,9 @@
 
 ## 📸 ANU 官方数字化文凭样本参考
 
-![澳洲国立大学毕业证官方防伪样本图片](https://www.cererfi.com/uploads/img1/20260901/6a963060eee6e.jpg)
 
+
+<img width="548" height="800" alt="澳洲国立大学学历文凭样本" src="https://github.com/user-attachments/assets/7bd5ee83-2670-412e-b715-7303705e78bd" />
 
 
 ---
