@@ -16,7 +16,8 @@
 
 每一张正版 UNE 纸质或数字证书最具创新性的防伪防线，集中在证书的下半部分，展现了跨时代的视觉演变。
 
-![新英格兰大学学历文凭样本](https://www.cererfi.com/uploads/img1/20260903/6a98cb6e85c3e.jpg)
+
+<img width="566" height="800" alt="新英格兰大学毕业证样本（澳洲UNE学位文凭证书样式展示）" src="https://github.com/user-attachments/assets/beb1a40f-eab3-472e-9ffc-d1d2a317d5e4" />
 
 
 【新英格兰大学官方特殊防伪构造】
