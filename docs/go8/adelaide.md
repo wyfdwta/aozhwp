@@ -6,7 +6,7 @@
 
 
 
-<img width="565" height="800" alt="阿德莱德大学文凭样本" src="https://github.com/user-attachments/assets/e2d2ca0f-548f-4643-ad83-0eb18ba8b68e" />
+<img width="565" height="800" alt="阿德莱德大学毕业证（澳洲Adelaide学位文凭证书样式展示）" src="https://github.com/user-attachments/assets/e2d2ca0f-548f-4643-ad83-0eb18ba8b68e" />
 
 
 ---
