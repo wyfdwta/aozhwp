@@ -4,8 +4,9 @@
 
 ## 📸 Monash 最新版数字化文凭样本参考
 
-![莫纳什大学Monash毕业证书官方新版样本图片](https://www.cererfi.com/uploads/img1/20260906/6a9cbb287ab61.jpg)
 
+
+<img width="575" height="800" alt="莫纳什大学文凭样本" src="https://github.com/user-attachments/assets/920365d0-29b0-4f40-8ece-91b69c409fe5" />
 
 
 
