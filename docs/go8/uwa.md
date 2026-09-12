@@ -4,9 +4,7 @@
 
 ## 📸 UWA 最新版数字化文凭样本参考
 
-![西澳大学UWA毕业证书样本图片](https://www.cererfi.com/uploads/img1/20260822/6a89b2e547f3f.jpg)
-
-*图：西澳大学（UWA）全球工商管理硕士（Master of Business Administration - Global）最新版学位证书标准排版示例（已脱敏处理）*
+<img width="566" height="800" alt="西澳大学毕业证样本（澳洲UWA学位文凭证书样式展示）" src="https://github.com/user-attachments/assets/f55028ad-ce1c-4a63-a48d-114297dbd8dd" />
 
 ---
 
