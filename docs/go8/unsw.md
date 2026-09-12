@@ -4,9 +4,9 @@
 
 ## 📸 UNSW 最新版数字化文凭样本参考
 
-![新南威尔士大学学历文凭证书官方防伪样本图片](https://www.cererfi.com/uploads/img1/20260903/6a98cecf141f4.jpg)
 
 
+<img width="561" height="800" alt="新南威尔士大学学历文凭样本" src="https://github.com/user-attachments/assets/9486f19d-860a-48cc-a39b-38d6db5a430e" />
 
 ---
 
