@@ -10,7 +10,7 @@
 
 
 
-<img width="561" height="800" alt="悉尼大学文凭样本" src="https://github.com/user-attachments/assets/aca6bffb-9dce-408b-8476-fa1e092e4d61" />
+<img width="561" height="800" alt="悉尼大学毕业证样本（澳洲USYD学位文凭证书样式展示）" src="https://github.com/user-attachments/assets/aca6bffb-9dce-408b-8476-fa1e092e4d61" />
 
 
 ---
