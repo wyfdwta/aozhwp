@@ -4,7 +4,8 @@
 
 ## 📸 UTS 最新版数字化文凭样本参考
 
-![悉尼科技大学UTS毕业证书官方防伪样本图片](https://www.cererfi.com/uploads/img1/20260620/6a35eff07f662.jpg)
+
+<img width="660" height="800" alt="[悉尼科技大学毕业证样本（澳洲UTS学位文凭证书样式展示）" src="https://github.com/user-attachments/assets/bb4cffbb-0335-4bb4-a2ef-bbc48b6bfed8" />
 
 
 *图：悉尼科技大学（UTS）学术学位证书标准排版示例（已脱敏处理）*
