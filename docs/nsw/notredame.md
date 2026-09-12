@@ -17,7 +17,7 @@
 每一张正版 UNDA 纸质文凭最核心的物理防伪防线，集中在证书的左下角，具备极高规格的物理压印和校签背书。
 
 ![澳大利亚圣母大学学历文凭样本](https://www.cererfi.com/uploads/img1/20260912/6aa4af4340c03.jpg)
-<img width="562" height="800" alt="澳大利亚圣母大学毕业证样本（澳洲Newcastle学位文凭证书样式展示）" src="https://github.com/user-attachments/assets/3a16700b-8898-444e-97e1-ec36d4645293" />
+<img width="562" height="800" alt="澳大利亚圣母大学毕业证样本（澳洲Notre Dame学位文凭证书样式展示）" src="https://github.com/user-attachments/assets/3a16700b-8898-444e-97e1-ec36d4645293" />
 
 
 【澳大利亚圣母大学官方防伪构造】
