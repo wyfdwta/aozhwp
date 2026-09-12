@@ -16,7 +16,7 @@
 
 每一张正版 SCU 纸质文凭最核心的物理防伪防线，集中在证书的中下部，具备极高规格的物理压印和校签背书。
 
-![南十字星大学文凭样本](https://www.cererfi.com/uploads/img1/20260618/6a33617ccbcd9.jpg)
+![南十字星大学文凭样本](https://www.cererfi.com/uploads/img1/20260912/6aa4c6825490e.jpg)
 
 
 【南十字星大学官方防伪构造】
