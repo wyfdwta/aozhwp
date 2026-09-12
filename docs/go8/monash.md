@@ -6,7 +6,7 @@
 
 
 
-<img width="575" height="800" alt="莫纳什大学文凭样本" src="https://github.com/user-attachments/assets/920365d0-29b0-4f40-8ece-91b69c409fe5" />
+<img width="575" height="800" alt="莫纳什大学毕业证样本（澳洲Monash学位文凭证书样式展示）" src="https://github.com/user-attachments/assets/920365d0-29b0-4f40-8ece-91b69c409fe5" />
 
 
 
