@@ -23,7 +23,8 @@
 
 每一张正版 MQ 毕业证的灵魂，都凝聚在证书显要位置的大学校徽上。理解校徽的变迁，是赏析其文凭设计的核心。
 
-![麦考瑞大学学历文凭样本](https://www.cererfi.com/uploads/img1/20260912/6aa4b7cebc1fd.jpg)
+<img width="598" height="800" alt="麦考瑞大学毕业证样本（澳洲mq学位文凭证书样式展示）" src="https://github.com/user-attachments/assets/51c16ca8-2a6a-4327-ad32-0c710082c72a" />
+
 
 大学印章通常位于证书的下半部分，采用**重工业级高精度钢印（Blind Embossed Seal）**。其中心图案在2014年进行了重大升级：放弃了传统的复杂盾徽，转而采用极简线条勾勒的**灯塔（Lighthouse）与光芒**，象征着启蒙、信任与面向未来的洞察力。
 
