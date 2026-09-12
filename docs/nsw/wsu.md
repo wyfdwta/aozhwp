@@ -16,7 +16,8 @@
 
 每一张正版 WSU 纸质文凭最具分量的物理防伪屏障，集中在证书的下半部分，具备极高吨位的物理压印和三方校签背书。
 
-![西悉尼大学毕业证样本图片](https://www.cererfi.com/uploads/img1/20260902/6a977632cc85e.jpg)
+
+<img width="569" height="800" alt="西悉尼大学毕业证样本（澳洲WSU学位文凭证书样式展示）" src="https://github.com/user-attachments/assets/5894da6b-cba2-4429-825e-1f0134db987b" />
 
 
 
