@@ -6,7 +6,7 @@
 
 
 
-<img width="548" height="800" alt="澳洲国立大学学历文凭样本" src="https://github.com/user-attachments/assets/7bd5ee83-2670-412e-b715-7303705e78bd" />
+<img width="548" height="800" alt="澳洲国立大学毕业证（澳洲ANU学位文凭证书样式展示）" src="https://github.com/user-attachments/assets/7bd5ee83-2670-412e-b715-7303705e78bd" />
 
 
 ---
