@@ -4,9 +4,10 @@
 
 ## 📸 阿德莱德大学最新版数字化文凭样本参考
 
-![阿德莱德大学毕业证书官方样本图片](https://www.cererfi.com/uploads/img1/20260823/6a8a3f7200f08.jpg)
 
-*图：阿德莱德大学会计与金融硕士（Master of Accounting and Finance）学术学位证书标准排版示例（已脱敏处理）*
+
+<img width="565" height="800" alt="阿德莱德大学文凭样本" src="https://github.com/user-attachments/assets/e2d2ca0f-548f-4643-ad83-0eb18ba8b68e" />
+
 
 ---
 
