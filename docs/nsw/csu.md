@@ -14,9 +14,10 @@
 
 ## **二、 物理防伪与权力背书**
 
-每一张正版 CSU 纸质文凭最具分量的物理防伪屏障，集中在证书的左下角及底部，具备极高规格的物理压印和校签背书。
+<img width="600" height="800" alt="查尔斯斯特大学毕业证样本(澳洲csu学位文凭证书样式展示)" src="https://github.com/user-attachments/assets/15f2eb16-4cc6-483c-b0e7-752ea2b77d49" />
 
-![查尔斯斯特大学毕业证样本](https://www.cererfi.com/uploads/img1/20260830/6a939e5dcbddf.jpg)
+
+
 
 
 
