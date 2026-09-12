@@ -5,7 +5,7 @@
 ## 📸 UQ 最新版数字化文凭样本参考
 
 
-<img width="564" height="800" alt="昆士兰大学文凭样本" src="https://github.com/user-attachments/assets/bef40830-86f8-4ee4-8fd4-f27ff34e7080" />
+<img width="564" height="800" alt="昆士兰大学毕业证样本（澳洲UQ学位文凭证书样式展示）" src="https://github.com/user-attachments/assets/bef40830-86f8-4ee4-8fd4-f27ff34e7080" />
 
 
 ---
