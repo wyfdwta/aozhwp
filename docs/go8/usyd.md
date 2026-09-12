@@ -8,8 +8,9 @@
 
 以下展示的文凭证书图片已隐去所有毕业生个人隐私信息，并加注了官方科普专用的半透明水印，仅供学术交流与设计赏析参考。
 
-![官方悉尼大学毕业证样本与防伪特征解析](https://www.cererfi.com/uploads/img1/20260902/6a977b6fc73f3.jpg)
 
+
+<img width="561" height="800" alt="悉尼大学文凭样本" src="https://github.com/user-attachments/assets/aca6bffb-9dce-408b-8476-fa1e092e4d61" />
 
 
 ---
