@@ -10,9 +10,10 @@
 
 每一张正版 UON 纸质文凭最具分量的物理防伪防线，往往集中在证书的下半部分。纽卡斯尔大学别具一格地将其防伪标识设置在**左下角**，这是一枚**重工级双圈立体金箔钢印（Gold Foil Embossed Seal）**，外圈环绕着大学官方英文名称及澳大利亚字样，中心则是大学马头盾徽的浮雕图案。金箔在不同光线角度下反射出璀璨的光泽，且用手指触摸有极强的凹凸立体感，能瞬间秒杀任何低端数字化复印或平面印刷制品。在金箔印章右侧，则并排印有**校监（Chancellor）**与**副校长兼大学校长（Vice-Chancellor and University President）**的双人联合手写签署，签名线条流畅舒展。
 
-![纽卡斯尔大学证书样本图片](https://www.cererfi.com/uploads/img1/20260618/6a33675f39c24.jpg)
 
-*图1 纽卡斯尔大学证书整体及左下角金箔印章实际效果图*
+
+<img width="562" height="800" alt="纽卡斯尔大学毕业证样本（澳洲Newcastle学位文凭证书样式展示）" src="https://github.com/user-attachments/assets/9bd36c5c-6c35-477c-a52d-0b77886b4eaa" />
+
 
 【纽卡斯尔大学官方金箔钢印核心构造】
 * 外圈字样：THE UNIVERSITY OF NEWCASTLE AUSTRALIA —— 标明所属学校法定全称
