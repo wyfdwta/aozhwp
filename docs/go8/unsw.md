@@ -6,7 +6,7 @@
 
 
 
-<img width="561" height="800" alt="新南威尔士大学学历文凭样本" src="https://github.com/user-attachments/assets/9486f19d-860a-48cc-a39b-38d6db5a430e" />
+<img width="561" height="800" alt="新南威尔士大学毕业证样本（澳洲UNSW学位文凭证书样式展示）" src="https://github.com/user-attachments/assets/9486f19d-860a-48cc-a39b-38d6db5a430e" />
 
 ---
 
