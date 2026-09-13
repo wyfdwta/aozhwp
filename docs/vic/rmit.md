@@ -4,6 +4,10 @@
 
 本文将为您深度解析 RMIT 学位证书的核心设计元素、文化寓意以及其背后的防伪工艺。
 
+<img width="616" height="800" alt="皇家墨尔本大学毕业证样本（澳洲rmit学位文凭证书样式展示）" src="https://github.com/user-attachments/assets/3cdb3a9a-5f96-4cc5-88ab-1a12b3c89290" />
+
+
+
 ---
 
 ## 一、 核心视觉元素与布局
@@ -17,8 +21,6 @@ RMIT 的学位证书采用了国际主流的**纵向排版（Portrait Layout）*
 *   **守护神兽**：左侧为金色的英国狮子（Lion），右侧为澳大利亚特有的袋鼠（Kangaroo），完美融合了学校的英国皇家历史渊源与澳大利亚本土文化。
 *   **盾牌核心**：盾牌中央包含精密的几何线条与象征科技、工业发展的机械图案，呼应了学校“理工（Technology）”的立校之本。
 *   **拉丁文校训**：纹章底部的绶带上印有校训 *“Perita Manus, Mens Exculta”*，意为**“熟练的手，文明的心”**（A skilled hand, a cultivated mind），体现了 RMIT 强调实践与理论并重的教育理念。
-
-<img width="616" height="800" alt="皇家墨尔本大学毕业证样本（澳洲rmit学位文凭证书样式展示）" src="https://github.com/user-attachments/assets/3cdb3a9a-5f96-4cc5-88ab-1a12b3c89290" />
 
 
 ### 2. 标准学术字体
@@ -36,7 +38,7 @@ RMIT 的学位证书采用了国际主流的**纵向排版（Portrait Layout）*
 *   **授予日期**：使用传统的英文全称书写，例如“on the fourteenth day of May in the year 2025”，彰显学术文件的严肃性。
 *   **三方联合签署**：证书底部拥有三位学校核心高层的亲笔签名手迹，分别来自**校监（Chancellor）**、**副校长兼校长（Vice-Chancellor and President）**以及**大学秘书兼教务长（University Secretary and Academic Registrar）**。
 
-![RMIT学位证书全文排版及高层签名区域展示](请在此处替换为RMIT完整学位证书样张的图片链接)
+
 
 ---
 
@@ -48,7 +50,7 @@ RMIT 的学位证书采用了国际主流的**纵向排版（Portrait Layout）*
 *   **法律授权声明**：印章下方明确标注：*“RMIT is a University established under an Act of the Parliament of Victoria”*（RMIT 是根据维多利亚州议会法案建立的大学），赋予了证书无可争议的法律效力。
 *   **现代品牌标识**：右下角同时印有最新的 **RMIT UNIVERSITY** 红色像素风 Logo 组合，将古典纹章与现代企业VI（视觉识别系统）完美结合。
 
-![RMIT学位证书右下角红色防伪钢印与最新Logo细节](请在此处替换为证书右下角红印章与Logo特写的图片链接)
+
 
 ---
 
