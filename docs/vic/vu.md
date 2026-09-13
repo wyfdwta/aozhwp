@@ -13,7 +13,8 @@
 *   **对角线视线引导**：这一色块采用了粗线条的现代工业几何折线设计，像一个巨大的取景框，将读者的视线从左侧自然引导至证书正中央的学术成就文本上。
 *   **强烈的色彩对比**：高饱和度的天蓝色与纯白色的高档纸张底色形成鲜明对比，打破了学术文件一贯的沉闷感，传递出墨尔本这座“艺术之都”独有的前卫设计思维。
 
-<img width="562" height="800" alt="维多利亚大学毕业证样本（澳洲VU学位文凭证书样式展示" src="https://github.com/user-attachments/assets/7eb2382f-b735-4eaa-a08f-8a6a7e4a83f2" />
+<img width="572" height="800" alt="维多利亚大学毕业证样本（澳洲VU学位文凭证书样式展示" src="https://github.com/user-attachments/assets/78e8e122-b3b1-4d3b-bde8-edf89195e1f4" />
+
 
 
 ---
