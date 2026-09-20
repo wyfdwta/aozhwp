@@ -1,4 +1,5 @@
 site_name: 澳大利亚大学学位证书设计赏析与官方防伪样本数据库
+site_url: https://aozhwp.readthedocs.io/zh-cn/latest/
 theme:
   name: material
   custom_dir: overrides
